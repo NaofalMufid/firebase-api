@@ -1,2 +1,4 @@
 node_modules/
 permsission.json
+/permsission.json
+./permsission.json
